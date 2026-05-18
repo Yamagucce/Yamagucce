@@ -6,7 +6,7 @@
   - [Inventory Management](https://github.com/Yamagucce/Inventory-Management-Project/blob/main/README.md)
 - <b>JavaFx minigame</b>
   - https://github.com/Yamagucce/Haunted_House
-- <b>PowerShell</b>
+- <b>C++ Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
