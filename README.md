@@ -7,7 +7,7 @@
 - <b>JavaFx minigame</b>
   - https://github.com/Yamagucce/Haunted_House
 - <b>C++ Projects</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [petShelter](https://github.com/Yamagucce/petShelter)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
